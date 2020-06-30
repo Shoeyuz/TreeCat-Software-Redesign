@@ -132,7 +132,9 @@ img{
 }
 
 
-
+#section-c{
+    margin-bottom: 50px;
+}
 
 /*section b styling*/
 #section-b{
@@ -165,9 +167,12 @@ img{
     
     padding: 1em;
     bottom: 0;
-    background: #3e3e3e;
-    color: #fff;
+    background: #333;
     text-align: center;
+}
+
+.footer-text{
+    color: #fff;
 }
 
 
