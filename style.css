@@ -16,6 +16,13 @@ a{
     text-align: center;
 }
 
+
+p{
+    margin:0;
+    padding: 1em 0;
+
+}
+
 #showcase .bg-img{
     position: absolute;
     background-color: #cccccc;
@@ -151,20 +158,19 @@ img{
 }
 
 
+
+
 /* Footer */
 #main-footer{
-    padding: 2em;
+    
+    padding: 1em;
     bottom: 0;
-    background: #000;
+    background: #3e3e3e;
     color: #fff;
     text-align: center;
 }
 
 
-#main-footer a{
-    color: lightcyan;
-    text-decoration: none;
-}
 
 @media(min-width: 768px){
     .grid{
@@ -201,6 +207,8 @@ img{
     img{
         height: 200px;
     }
+        
+    
 }
 
 @media screen and (max-width: 1024px){
